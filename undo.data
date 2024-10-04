@@ -1,0 +1,51 @@
+time 1727782833
+new [description:"tet" entry:"1727782833" modified:"1727782833" status:"pending" uuid:"daf41657-aec0-49c6-8bb5-ee4cbe6d5a4d"]
+---
+time 1727782853
+old [description:"tet" entry:"1727782833" modified:"1727782833" status:"pending" uuid:"daf41657-aec0-49c6-8bb5-ee4cbe6d5a4d"]
+new [description:"tet" end:"1727782852" entry:"1727782833" modified:"1727782853" status:"deleted" uuid:"daf41657-aec0-49c6-8bb5-ee4cbe6d5a4d"]
+---
+time 1728070878
+new [description:"Envío notificaciones por teams (Crear Bot)" entry:"1728070878" modified:"1728070878" project:"Work.ACD.WhatsappChatbot" status:"pending" uuid:"3c00d062-485a-4410-8191-24ed7984f346"]
+---
+time 1728070997
+old [description:"Envío notificaciones por teams (Crear Bot)" entry:"1728070878" modified:"1728070878" project:"Work.ACD.WhatsappChatbot" status:"pending" uuid:"3c00d062-485a-4410-8191-24ed7984f346"]
+new [description:"Envío notificaciones por teams (Crear Bot)" entry:"1728070878" modified:"1728070997" project:"Work.ACD.WhatsappChatbot" status:"pending" tags:"chatbot,work" tags_chatbot:"x" tags_work:"x" uuid:"3c00d062-485a-4410-8191-24ed7984f346"]
+---
+time 1728071114
+new [description:"Haircut" entry:"1728071114" modified:"1728071114" project:"Personal" status:"pending" tags:"appt,phealth" tags_appt:"x" tags_phealth:"x" uuid:"3c706f5e-175a-4396-9223-b02d7241705e"]
+---
+time 1728071136
+old [description:"Haircut" entry:"1728071114" modified:"1728071114" project:"Personal" status:"pending" tags:"appt,phealth" tags_appt:"x" tags_phealth:"x" uuid:"3c706f5e-175a-4396-9223-b02d7241705e"]
+new [description:"Corte de cabello" entry:"1728071114" modified:"1728071136" project:"Personal" status:"pending" tags:"appt,phealth" tags_appt:"x" tags_phealth:"x" uuid:"3c706f5e-175a-4396-9223-b02d7241705e"]
+---
+time 1728071223
+new [description:"Brush Teeth" due:"1730419200" entry:"1728071223" modified:"1728071223" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"recurring" uuid:"358fdf98-43ab-4f88-9f0f-44c80699e340"]
+---
+time 1728071225
+new [description:"Brush Teeth" due:"1730419200" entry:"1728071225" imask:"0" modified:"1728071223" parent:"358fdf98-43ab-4f88-9f0f-44c80699e340" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"pending" uuid:"fb796c0c-086f-49fb-9d72-01566b82d426"]
+---
+time 1728071225
+old [description:"Brush Teeth" due:"1730419200" entry:"1728071223" modified:"1728071223" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"recurring" uuid:"358fdf98-43ab-4f88-9f0f-44c80699e340"]
+new [description:"Brush Teeth" due:"1730419200" entry:"1728071223" mask:"-" modified:"1728071225" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"recurring" uuid:"358fdf98-43ab-4f88-9f0f-44c80699e340"]
+---
+time 1728071243
+old [description:"Brush Teeth" due:"1730419200" entry:"1728071223" mask:"-" modified:"1728071225" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"recurring" uuid:"358fdf98-43ab-4f88-9f0f-44c80699e340"]
+new [description:"Brush Teeth" due:"1730419200" entry:"1728071223" mask:"X" modified:"1728071243" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"recurring" uuid:"358fdf98-43ab-4f88-9f0f-44c80699e340"]
+---
+time 1728071243
+old [description:"Brush Teeth" due:"1730419200" entry:"1728071225" imask:"0" modified:"1728071223" parent:"358fdf98-43ab-4f88-9f0f-44c80699e340" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"pending" uuid:"fb796c0c-086f-49fb-9d72-01566b82d426"]
+new [description:"Brush Teeth" due:"1730419200" end:"1728071241" entry:"1728071225" imask:"0" modified:"1728071243" parent:"358fdf98-43ab-4f88-9f0f-44c80699e340" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"deleted" uuid:"fb796c0c-086f-49fb-9d72-01566b82d426"]
+---
+time 1728071245
+old [description:"Brush Teeth" due:"1730419200" entry:"1728071223" mask:"X" modified:"1728071243" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"recurring" uuid:"358fdf98-43ab-4f88-9f0f-44c80699e340"]
+new [description:"Brush Teeth" due:"1730419200" end:"1728071245" entry:"1728071223" mask:"X" modified:"1728071245" project:"Personal.Hygiene" recur:"daily" rtype:"periodic" status:"deleted" uuid:"358fdf98-43ab-4f88-9f0f-44c80699e340"]
+---
+time 1728071264
+old [description:"Corte de cabello" entry:"1728071114" modified:"1728071136" project:"Personal" status:"pending" tags:"appt,phealth" tags_appt:"x" tags_phealth:"x" uuid:"3c706f5e-175a-4396-9223-b02d7241705e"]
+new [description:"Make haircut appointment" entry:"1728071114" modified:"1728071264" project:"Personal" status:"pending" tags:"appt,phealth" tags_appt:"x" tags_phealth:"x" uuid:"3c706f5e-175a-4396-9223-b02d7241705e"]
+---
+time 1728071348
+old [description:"Envío notificaciones por teams (Crear Bot)" entry:"1728070878" modified:"1728070997" project:"Work.ACD.WhatsappChatbot" status:"pending" tags:"chatbot,work" tags_chatbot:"x" tags_work:"x" uuid:"3c00d062-485a-4410-8191-24ed7984f346"]
+new [description:"Envío notificaciones por teams (Crear Bot)" entry:"1728070878" modified:"1728071348" project:"Work.ACD.WhatsappChatbot" status:"pending" tags:"dev,implement" tags_dev:"x" tags_implement:"x" uuid:"3c00d062-485a-4410-8191-24ed7984f346"]
+---
